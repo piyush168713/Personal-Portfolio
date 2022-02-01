@@ -1,0 +1,12 @@
+Download xampp 
+connect to server (start apache and MySQL)
+open phpmyadmin by click on admin or typing localhost/phpmyadmin on browser
+put code files in xampp-htdots 
+create new database and give the database name same as in php code database name
+and server name is localhost and username is root
+then create table by adding no. of columns as you want
+after that 
+establish connection form the database
+
+then open the webpage on browser by typing localhost/folder_name_saved_in_xampp-htdots
+fill your form and submit and then refresh the database page after that you can see your data.
