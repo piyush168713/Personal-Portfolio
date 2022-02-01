@@ -8,9 +8,9 @@
 
 ## This is my Personal Portfolio Website!!!
 
-# To see the output [CLICK HERE](https://piyush168713.github.io/Personal-Portfolio/index.html)
+<!--# To see the output [CLICK HERE](https://piyush168713.github.io/Personal-Portfolio/index.html)-->
 
-<!-- ### Screenshots
+ ### Screenshots
 
 <code>Home Page</code>
 <img src="Images/home.png">
@@ -27,4 +27,4 @@
 `Contact Us Page`
 <img src="Images/contactus.png">
 
--->
+
