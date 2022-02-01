@@ -12,7 +12,7 @@
 
 <!-- ### Screenshots
 
-`Home Page`
+<code>Home Page</code>
 <img src="Images/home.png">
 
 `About Page`
